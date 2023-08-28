@@ -62,12 +62,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JOHNMULAMA&theme=react&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wandabi-gs&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JOHNMULAMA&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 ---
