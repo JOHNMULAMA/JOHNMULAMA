@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54) 
+![Solidity](https://img.shields.io/badge/Solidity-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Android Languages:
 ![Flutter](https://img.shields.io/badge/flutter-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 
 ## BLOCKCHAIN:
 ![Move](https://img.shields.io/badge/Move-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/Solidity-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=green) 
 ![XRDL](https://img.shields.io/badge/XRDL-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54) 
 
 ## Machine learning and Data Science:
