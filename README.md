@@ -1,29 +1,30 @@
 # 👋 Hi there, I’m John Mulama  
 
-🔭 **I’m currently working on:**  
-- Building a cutting-edge campaign management web application tailored for politicians in Kenya.  
-- Developing and enhancing Moodle plugins for authentication, including OTP verification and OAuth2 integrations.  
-- Designing blockchain-based solutions for secure communication and decentralized applications (dApps).  
+## About Me  
+🔭 **I’m currently working on**:  
+- Developing a campaign management web application tailored for politicians in Kenya.  
+- Advancing user authentication methods in Moodle, including OTP verification and secure OAuth2 integrations.  
+- Building decentralized applications (dApps) with robust blockchain solutions.  
 
-🌱 **I’m currently learning:**  
-- Advanced React and Django techniques for seamless full-stack development.  
-- Exploring innovative AI technologies.  
-- Deepening my expertise in blockchain frameworks like Hyperledger Fabric and Solidity.  
+🌱 **I’m currently learning**:  
+- Advanced AI frameworks for personality and mood recognition.  
+- Innovations in blockchain scalability using technologies like Hyperledger Fabric and Layer 2 solutions.  
+- Enhanced integration of payment gateways like Afterpay, Zip, and PayPal.  
 
-👯 **I’m looking to collaborate on:**  
-- Blockchain and Web3 projects, especially in DeFi and secure communication systems.  
-- Open-source projects for Moodle and other e-learning platforms.  
-- AI-driven tools for mood analysis and natural user interaction.  
+👯 **I’m looking to collaborate on**:  
+- Blockchain projects focused on decentralized finance (DeFi), secure communication, and smart contract development.  
+- Open-source projects involving Moodle plugins or e-learning solutions.  
+- AI-driven projects such as chatbots, data-driven decision-making tools, and more.  
 
-🤔 **I’m looking for help with:**  
-- Scaling blockchain dApps for wider adoption.  
-- Expanding integrations with payment systems like Afterpay, Zip, and PayPal.  
-- Innovating telepathic communication technologies with AI and emerging sciences.  
+🤔 **I’m looking for help with**:  
+- Exploring the possibilities of telepathic communication using AI.  
+- Implementing scalable and robust backend systems for dApps.  
+- Staying ahead in machine learning innovations and their applications in real-time systems.  
 
-💬 **Ask me about:**  
-- Blockchain technology, smart contracts, and decentralized systems.  
-- Developing custom Moodle themes, plugins, and integrations.  
-- Full-stack development with React, Django, and PostgreSQL.  
+💬 **Ask me about**:  
+- Blockchain technology, smart contract development, and Web3.  
+- Machine learning for decision-making, NLP, and predictive analytics.  
+- Full-stack development with React, Django, and modern DevOps practices.  
 
 📫 **How to reach me:**  
 - 📧 [johnmulama001@gmail.com](mailto:johnmulama001@gmail.com)  
