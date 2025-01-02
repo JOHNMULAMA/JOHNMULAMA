@@ -1,4 +1,41 @@
-# 💻 Tech Stack:
+# 👋 Hi there, I’m John Mulama  
+
+🔭 **I’m currently working on:**  
+- Building a cutting-edge campaign management web application tailored for politicians in Kenya.  
+- Developing and enhancing Moodle plugins for authentication, including OTP verification and OAuth2 integrations.  
+- Designing blockchain-based solutions for secure communication and decentralized applications (dApps).  
+
+🌱 **I’m currently learning:**  
+- Advanced React and Django techniques for seamless full-stack development.  
+- Exploring innovative AI technologies, including applications for telepathic communication.  
+- Deepening my expertise in blockchain frameworks like Hyperledger Fabric and Solidity.  
+
+👯 **I’m looking to collaborate on:**  
+- Blockchain and Web3 projects, especially in DeFi and secure communication systems.  
+- Open-source projects for Moodle and other e-learning platforms.  
+- AI-driven tools for mood analysis and natural user interaction.  
+
+🤔 **I’m looking for help with:**  
+- Scaling blockchain dApps for wider adoption.  
+- Expanding integrations with payment systems like Afterpay, Zip, and PayPal.  
+- Innovating telepathic communication technologies with AI and emerging sciences.  
+
+💬 **Ask me about:**  
+- Blockchain technology, smart contracts, and decentralized systems.  
+- Developing custom Moodle themes, plugins, and integrations.  
+- Full-stack development with React, Django, and PostgreSQL.  
+
+📫 **How to reach me:**  
+- 📧 [johnmulama001@gmail.com](mailto:johnmulama001@gmail.com)  
+- 📞 +254 720 960 716  
+
+😄 **Pronouns:** He/Him  
+
+⚡ **Fun fact:** I combine creativity and technology, from writing fictitious novels to designing futuristic AI solutions.  
+
+
+
+### 💻 Tech Stack:
 
 ## Programming Languages:
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
