@@ -12,9 +12,19 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ## Blockchain:
-![Move](https://img.shields.io/badge/Move-0048BA?style=for-the-badge&logo=move&logoColor=white)
-![Solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![XRDL](https://img.shields.io/badge/XRDL-6E4C7D?style=for-the-badge&logo=xrpl&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Move](https://img.shields.io/badge/Move-0048BA?style=for-the-badge&logo=aptos&logoColor=white)
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![Binance Smart Chain](https://img.shields.io/badge/Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
+![XRPL](https://img.shields.io/badge/XRPL-6E4C7D?style=for-the-badge&logo=ripple&logoColor=white)
+![Tezos](https://img.shields.io/badge/Tezos-2C7DF7?style=for-the-badge&logo=tezos&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFBC00?style=for-the-badge&logo=ethereum&logoColor=black)
+![Truffle](https://img.shields.io/badge/Truffle-5E469B?style=for-the-badge&logo=ethereum&logoColor=white)
+
 
 ## Machine Learning and Data Science:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
