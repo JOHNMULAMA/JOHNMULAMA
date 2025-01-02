@@ -7,7 +7,7 @@
 
 🌱 **I’m currently learning:**  
 - Advanced React and Django techniques for seamless full-stack development.  
-- Exploring innovative AI technologies, including applications for telepathic communication.  
+- Exploring innovative AI technologies.  
 - Deepening my expertise in blockchain frameworks like Hyperledger Fabric and Solidity.  
 
 👯 **I’m looking to collaborate on:**  
@@ -95,3 +95,18 @@
 ## Query Languages:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JOHNMULAMA&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNMULAMA&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JOHNMULAMA&theme=react&hide_border=false)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JOHNMULAMA&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=JOHNMULAMA&icon=0&color=0)](https://visitcount.itsvg.in)
