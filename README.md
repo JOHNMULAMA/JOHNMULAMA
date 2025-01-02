@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 ## Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Dart](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=dart&logoColor=black) 
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54) 
 ![Solidity](https://img.shields.io/badge/Solidity-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
