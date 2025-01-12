@@ -2,14 +2,14 @@
 
 ## About Me  
 🔭 **I’m currently working on**:  
-- Developing a campaign management web application tailored for politicians in Kenya.  
-- Advancing user authentication methods in Moodle, including OTP verification and secure OAuth2 integrations.  
+- Developing a DeFi application that features its own native coin and offers a stablecoin with two versions: one based on XRP and the other on Stellar.
+-   Leveraging Advanced AI and Machine Learning for Sustainable Resource Management and Environmental Conservation.
 - Building decentralized applications (dApps) with robust blockchain solutions.  
 
 🌱 **I’m currently learning**:  
-- Advanced AI frameworks for personality and mood recognition.  
+- Advanced AI frameworks for sustainable applications  
 - Innovations in blockchain scalability using technologies like Hyperledger Fabric and Layer 2 solutions.  
-- Enhanced integration of payment gateways like Afterpay, Zip, and PayPal.  
+- Innovations in blockchain technology, such as KYC integration, smart contracts, and tokenization. 
 
 👯 **I’m looking to collaborate on**:  
 - Blockchain projects focused on decentralized finance (DeFi), secure communication, and smart contract development.  
