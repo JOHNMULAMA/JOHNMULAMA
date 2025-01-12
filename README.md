@@ -9,7 +9,7 @@
 🌱 **I’m currently learning**:  
 - Advanced AI frameworks for sustainable applications  
 - Innovations in blockchain scalability using technologies like Hyperledger Fabric and Layer 2 solutions.  
-- Innovations in blockchain technology, such as KYC integration, smart contracts, and tokenization. 
+- Innovations in blockchain technology, such as KYC integration, multi-platform smart contracts, and advanced tokenization. 
 
 👯 **I’m looking to collaborate on**:  
 - Blockchain projects focused on decentralized finance (DeFi), secure communication, and smart contract development.  
