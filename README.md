@@ -198,7 +198,7 @@ I collaborate with:
 ## 🏆 GitHub Achievements
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnmulama&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JOHNMULAMA&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 
