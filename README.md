@@ -196,11 +196,11 @@ I collaborate with:
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Highlights
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOHNMULAMA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&v=1" />
-</p>
+![Followers](https://img.shields.io/github/followers/johnmulama?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/johnmulama?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge&logo=github)
 
 
 ---
