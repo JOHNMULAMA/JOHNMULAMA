@@ -195,17 +195,19 @@ I collaborate with:
 </p>
 
 ---
-## 🏆 GitHub Achievements
+## 🏅 Engineering Achievements
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOHNMULAMA&theme=algolia&no-frame=true&margin-w=10" />
-</p>
+✔ Developed Production Moodle Plugins  
+✔ Built Offline Learning PWA Systems  
+✔ Designed Parent Portal Infrastructure  
+✔ Automated Attendance & Certification Systems  
+✔ Scalable LMS Payment Integrations  
+
 
 
 ## 🏆 GitHub Highlights
 
 ![Followers](https://img.shields.io/github/followers/johnmulama?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/johnmulama?style=for-the-badge)
 ![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge&logo=github)
 
 
