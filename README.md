@@ -187,11 +187,11 @@ I collaborate with:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnmulama&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JOHNMULAMA&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmulama&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNMULAMA&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -199,7 +199,15 @@ I collaborate with:
 ## 🏆 GitHub Achievements
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnmulama&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JOHNMULAMA&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JOHNMULAMA&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
